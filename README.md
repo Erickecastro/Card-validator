@@ -1,6 +1,6 @@
 # Card Validator
 
-A simple C# console application that validates credit/debit card numbers using the **Luhn Algorithm** and identifies the card brand based on its prefix and length.
+> A simple C# console application that validates credit/debit card numbers using the **Luhn Algorithm** and identifies the card brand based on its prefix and length.
 
 ## Features
 
